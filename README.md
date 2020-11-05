@@ -33,7 +33,7 @@ If you do not want to run the migrate command then import the laravelreact.sql f
 php artisan serve
 ```
 
-## In case you are getting error at the time setup then you can run below command.
+## In case you are getting error at the time of setup then you can run below commands.
 ```
 php artisan cache: clear
 php artisan config: clear
